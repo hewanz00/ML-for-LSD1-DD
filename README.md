@@ -1,5 +1,5 @@
 # ML-for-LSD1-DD
-This repository contains the code used in the reseach for 'Machine Learning for Lysine Specific Demethylase 1 Drug Discovery'. This is an extension of work carried out previously by Zhou et al. This work can be found at https://github.com/JiajunZhou96/ML-for-LSD1.
+This repository contains the code used in the reseach for 'Machine Learning for Lysine Specific Demethylase 1 Drug Discovery' for the University of Nottingham MSci Chemistry CHEM4007 module. This is an extension of work carried out previously by Zhou et al. This work can be found at https://github.com/JiajunZhou96/ML-for-LSD1.
 
 # Requirements
 * Python 3.7
